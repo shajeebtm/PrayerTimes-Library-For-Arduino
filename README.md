@@ -22,6 +22,6 @@ The result will be available in the array my_prayer_times[] in the following ord
       Maghrib
       Isha
 
-Refer to example for detailed usage
+Refer to [example](example) for detailed usage of the library.
 
 Visit http://praytimes.org to find details on calculation method and code manual.
