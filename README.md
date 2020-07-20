@@ -2,8 +2,8 @@
 
 ## Library setup
 
-* Mac users :  Create a directory named PrayerTimes inside ~/Documents/Arduino/libraries/ . Then copy [PrayerTimes.h](../master/src/PrayerTimes.h) into this newly created directory
-* Windows suers : Create a directory named PrayerTimes inside My Documents\Arduino\libraries\ . Then copy  [PrayerTimes.h](../master/src/PrayerTimes.h) into this newly created directory
+* Mac users :  Create a directory named PrayerTimes inside ~/Documents/Arduino/libraries/ . Then copy the file [PrayerTimes.h](../master/src/PrayerTimes.h) into this newly created directory
+* Windows suers : Create a directory named PrayerTimes inside My Documents\Arduino\libraries\ . Then copy the file  [PrayerTimes.h](../master/src/PrayerTimes.h) into this newly created directory
 
 ## Basic usage
 
