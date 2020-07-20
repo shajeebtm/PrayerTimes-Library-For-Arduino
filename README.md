@@ -7,13 +7,10 @@
 
 ## Basic usage
 
-_#include <PrayerTimes.h>_
-
-_PrayerTimes my_prayer_object;_
-
-_double my_prayer_times[my_prayer_object.TimesCount];_
-
-_my_prayer_object.get_prayer_times(my_year, my_month, my_day, my_latitude , my_longitude , my_timezone , my_dst_on, my_calc_method, my_asr_method, my_high_lats_method, my_prayer_times );_
+      _#include <PrayerTimes.h>_
+      _PrayerTimes my_prayer_object;_
+      _double my_prayer_times[my_prayer_object.TimesCount];_
+      _my_prayer_object.get_prayer_times(my_year, my_month, my_day, my_latitude , my_longitude , my_timezone , my_dst_on, my_calc_method, my_asr_method, my_high_lats_method, my_prayer_times );_
 
 The result will be available in the array my_prayer_times[] in the following order.
 
