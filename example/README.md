@@ -20,18 +20,18 @@ Please refer to http://praytimes.org/manual for details of all above parameters.
 Running PrayerTimesExample.ino will produce following output on the Arduino IDE serial monitor
 
 
-     *******  Prayer Times for the date : 7/19/2020 *******
+*******  Prayer Times for the date : 7/19/2020 *******
 
-     ===================  Sunnyvale, CA, USA  =================
-     Prayer		Numberic-Time	24Hr-Format	12Hr-Format
-     ----------------------------------------------------------
-     Fajr		4.61		04:36		4:36 AM
-     Sunrise		6.05		06:03		6:03 AM
-     Dhuhr		13.24		13:15		1:15 PM
-     Asr		17.10		17:06		5:06 PM
-     Sunset		20.43		20:26		8:26 PM
-     Maghrib		20.43		20:26		8:26 PM
-     Isha		21.87		21:52		9:52 PM
+===================  Sunnyvale, CA, USA  =================
+Prayer		Numberic-Time	24Hr-Format	12Hr-Format
+----------------------------------------------------------
+Fajr		4.61		04:36		4:36 AM
+Sunrise		6.05		06:03		6:03 AM
+Dhuhr		13.24		13:15		1:15 PM
+Asr		17.10		17:06		5:06 PM
+Sunset		20.43		20:26		8:26 PM
+Maghrib		20.43		20:26		8:26 PM
+Isha		21.87		21:52		9:52 PM
 
 
 ===================== Mumbai , India =====================
