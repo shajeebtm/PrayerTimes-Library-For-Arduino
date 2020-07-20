@@ -1,1 +1,2 @@
-# PrayerTimes-Library-For-Arduino
+# PrayerTimes : Arduino  library for calculating daily islamic prayer times
+
