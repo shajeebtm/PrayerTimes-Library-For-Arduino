@@ -1,4 +1,4 @@
-# PrayerTimes : Arduino  library for calculating Islamic daily prayer times
+# PrayerTimes : Arduino  library class for calculating Islamic daily prayer times
 
 ## Library setup
 
@@ -21,3 +21,7 @@ The result will be available in the array my_prayer_times[] in the following ord
       Sunset
       Maghrib
       Isha
+
+Refer to example for detailed usage
+
+Visit http://praytimes.org to find details on calculation method and code manual.
