@@ -17,7 +17,7 @@ Please refer to http://praytimes.org/manual for details of all above parameters.
 
 ### Run the code
 
-Running PrayerTimesExample.ino will produce following output on the Arduino IDE serial monitor
+Running [PrayerTimesExample.ino](PrayerTimesExample.ino)  will produce following output on the Arduino IDE serial monitor
 
 
     *******  Prayer Times for the date : 7/19/2020 *******
