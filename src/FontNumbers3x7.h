@@ -23,7 +23,7 @@ PLEASE DO NOT REMOVE THIS COPYRIGHT BLOCK.
 
 // this support only numbers between 0 to 9 with 3x7 size
 //
-// this library need 10 x 4 + 4 =  74 bytes
+// this library need 10 x 7 + 4 =  74 bytes
 const uint8_t FontNumbers3x7Data[] = {
         3,  // Font Width
         7,  // Font Height
